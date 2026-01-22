@@ -1,0 +1,14 @@
+.stats-page {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.stats-page h1 {
+  margin-bottom: 2rem;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
