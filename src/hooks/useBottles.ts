@@ -1,6 +1,5 @@
 import { useBottleStore } from '@/store/bottleStore'
 import { useMemo } from 'react'
-import { Bottle } from '@/types'
 
 export const useBottles = () => {
   const bottles = useBottleStore((state) => state.bottles)
