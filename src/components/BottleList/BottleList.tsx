@@ -1,7 +1,6 @@
 import { useBottleStore } from '@/store/bottleStore'
 import { formatDate, formatTimeAgo } from '@/utils/dateUtils'
 import { Button } from '@/components/UI/Button'
-import { Card } from '@/components/UI/Card'
 import { BOTTLE_TYPE_LABELS } from '@/config/constants'
 import './BottleList.css'
 

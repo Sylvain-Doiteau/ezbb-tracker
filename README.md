@@ -147,16 +147,6 @@ Le projet utilise un système de design cohérent avec :
 
 Ce projet est privé.
 
-## 👨‍💻 Développement
-
-Pour contribuer au projet :
-
-1. Créer une branche depuis `main`
-2. Faire vos modifications
-3. Vérifier avec `npm run lint` et `npm run type-check`
-4. Formater avec `npm run format`
-5. Créer une pull request
-
 ---
 
 Développé avec ❤️ pour faciliter le suivi des biberons de bébé
